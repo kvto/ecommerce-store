@@ -1,8 +1,11 @@
+import Container from "@/components/ui/container";
+
 const HomePage = () => {
     return ( 
-        <div>
-            Hello Store
-        </div>
+        <Container>
+            
+        
+        </Container>
      );
 }
  
